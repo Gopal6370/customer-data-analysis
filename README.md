@@ -1,4 +1,3 @@
-# customer-data-analysis
 # Data Immersion & Wrangling Project
 
 ## Objective
