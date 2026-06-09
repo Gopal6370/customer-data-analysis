@@ -39,4 +39,4 @@ The dataset contains customer transaction information including customer details
 - Cleaned Dataset
 
 ## Author
-BALGOPAL KHAND
+BALGOPAL KHANDA
